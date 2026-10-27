@@ -1,1 +1,3 @@
 # arabic-atr
+
+BnF images from: https://gallica.bnf.fr/ark:/12148/btv1b60006156
