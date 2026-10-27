@@ -71,7 +71,7 @@ The transcription is diplomatic: it reproduces the graphic and linguistic featur
 
 ## Fine-tuning
 
-`scripts/atr_environment.ipynb` runs on Google Colab. It expects this layout on a Google shared drive:
+`scripts/atr_environment.ipynb` runs on Google Colab or stand-alone (local Jupyter); see [INSTALL.md](INSTALL.md) for setup instructions. In Colab mode it expects this layout on a Google shared drive (stand-alone mode uses the same layout in a local folder, such as this repository):
 
 ```
 /content/drive/Shareddrives/kraken/workdir/
